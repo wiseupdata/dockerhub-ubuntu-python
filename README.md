@@ -30,7 +30,7 @@ Build the image 🚀️
 ## Simple example. ❤️
 ```
 docker build -t ubuntu-python .
-docker run -it --rm ubuntu-python
+docker run -it -u ubuntu --rm ubuntu-python
 }
 ```
 
@@ -40,6 +40,7 @@ docker run -it --rm ubuntu-python
 - python 3.9  `python`
 - python 3.11  `python3`
 - user `ubuntu` with sudo, no password
+- validated wit A.I.
 
 
 # Utils  🚀️
