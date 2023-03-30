@@ -23,7 +23,7 @@ Easy Use and customize the Docker image!
 <h1>
 <img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/docker.png" width="100" />
 
-Ubuntu 23.04 image with Python 🚀️
+Ubuntu 23.04 with Python 🚀️
 
 </h1>
 
