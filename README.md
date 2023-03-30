@@ -42,37 +42,37 @@ docker run -it --rm python
 - user `ubuntu` with sudo, no password
 - validated wit A.I. 🦾
 
-# Create a tag and deploy to dockerhub
+# Create a tag and deploy to dockerhub 🥳
 
-log in your account
+log in your account 🤜
 ```
 docker login -u wiseupdata
 ```
 
-Create a tag
+Create a tag 🤺
 ```
 docker tag python wiseupdata/python:3.9-ubuntu-23.04
 ```
 
-push your image
+push your image ♨️
 ```
 docker push wiseupdata/python:3.9-ubuntu-23.04
 ```
 
-# Test the image
+# Test the image 🎢
 ```
 docker run -it -u ubuntu wiseupdata/python:3.9-ubuntu-23.04 python_3_9
 
 ```
 
-# Utils  🚀️
+# Utils 🎁
 
 list all container
 ```
 docker ps -a
 ```
 
-kill all containers
+kill all containers ☠️
 ```
 docker rm $(docker ps -a -q) -f
 ```
