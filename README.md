@@ -1,4 +1,4 @@
-Easy create a Docker image!
+Easy Use and customize the Docker image!
 
 --- 
 
@@ -23,7 +23,7 @@ Easy create a Docker image!
 <h1>
 <img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/docker.png" width="100" />
 
-Build the image 🚀️
+Ubuntu image with Python ready for use! And open to customization 🚀️
 
 </h1>
 
