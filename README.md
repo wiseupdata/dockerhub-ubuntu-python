@@ -23,15 +23,14 @@ Easy Use and customize the Docker image!
 <h1>
 <img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/docker.png" width="100" />
 
-Ubuntu image with Python ready for use! And open to customization 🚀️
+Ubuntu 23.04 image with Python 🚀️
 
 </h1>
 
-## Simple example. ❤️
+
+# Simple to use ❤️
 ```
-docker build -t python .
-docker run -it --rm python
-}
+docker run -it -u ubuntu wiseupdata/python:3.9-ubuntu-23.04 python_3_9
 ```
 
 ## Versions ✨️
@@ -41,6 +40,15 @@ docker run -it --rm python
 - python 3.11  `python3`
 - user `ubuntu` with sudo, no password
 - validated wit A.I. 🦾
+
+## Simple customization example. 🎢 
+
+Update the `Dockerfile` and run the command bellow
+```
+docker build -t python .
+docker run -it --rm python
+}
+```
 
 # Create a tag and deploy to dockerhub 🥳
 
