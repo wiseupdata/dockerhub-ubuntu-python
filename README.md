@@ -2,26 +2,26 @@ Easy create a Docker image!
 
 --- 
 
-<a href="https://github.com/wiseupdata/dockerhub-python">
+<a href="https://github.com/wiseupdata/dockerhub-ubuntu-python">
 <img align="left" alt="Wise Up Data's Instagram" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/instagram.png" />   
 </a> 
-<a href="https://github.com/wiseupdata/dockerhub-python">
+<a href="https://github.com/wiseupdata/dockerhub-ubuntu-python">
   <img align="left" alt="wise Up Data's Discord" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/2aa9187a8e40a9f7b40b6a0abe1f05ec8993368b/assets/discord.svg" />
 </a>
-<a href="https://github.com/wiseupdata/dockerhub-python">
+<a href="https://github.com/wiseupdata/dockerhub-ubuntu-python">
   <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/twitter.svg" />
 </a>
-<a href="https://github.com/wiseupdata/dockerhub-python">
+<a href="https://github.com/wiseupdata/dockerhub-ubuntu-python">
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.dockerhub-python&left_color=green&right_color=black)
-![GitHub](https://img.shields.io/github/license/wiseupdata/dockerhub-python)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.dockerhub-ubuntu-python&left_color=green&right_color=black)
+![GitHub](https://img.shields.io/github/license/wiseupdata/dockerhub-ubuntu-python)
 
 ---
 
 <h1>
-<img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-python/main/assets/docker.png" width="100" />
+<img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/docker.png" width="100" />
 
 Build the image 🚀️
 
