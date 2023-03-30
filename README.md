@@ -39,7 +39,7 @@ docker run -it --rm ubuntu-python
 - Ubuntu 23.04 official 
 - python 3.9  `python`
 - python 3.11  `python3`
-- user `ubuntu` with sudo
+- user `ubuntu` with sudo, no password
 
 
 # Utils  🚀️
