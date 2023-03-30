@@ -29,7 +29,30 @@ Build the image 🚀️
 
 ## Simple example. ❤️
 ```
-docker build -t app-twitter ./docker/
-docker run -it --rm app-twitter
+docker build -t ubuntu-python .
+docker run -it --rm ubuntu-python
 }
+```
+
+
+# Utils  🚀️
+
+list all container
+```
+docker ps -a
+```
+
+kill all containers
+```
+docker rm $(docker ps -a -q) -f
+```
+
+list the images 
+```
+docker image ls
+```
+
+delete one image
+```
+docker image rm ubuntu-python -f
 ```
