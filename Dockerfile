@@ -1,7 +1,8 @@
 #########################################################
 # Oficial Python Image based in Ubuntu
 #########################################################
-FROM ubuntu:lunar
+# Ubuntu 23.04
+FROM ubuntu:lunar 
 
 LABEL maintainer="silvio liborio"
 
@@ -71,7 +72,7 @@ RUN usermod -aG sudo ubuntu
 RUN echo "ubuntu ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers.d/ubuntu
 
 ##############################################################################
-# Install Python 3.9
+# Install Python 3.9 # More stable for production
 ##############################################################################
 RUN wget https://www.python.org/ftp/python/3.9.12/Python-3.9.12.tgz && \
     tar -xf Python-3.9.12.tgz && \
