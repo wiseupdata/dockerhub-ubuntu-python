@@ -9,10 +9,10 @@ Easy create a Docker image!
   <img align="left" alt="wise Up Data's Discord" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/2aa9187a8e40a9f7b40b6a0abe1f05ec8993368b/assets/discord.svg" />
 </a>
 <a href="https://github.com/wiseupdata/dockerhub-python">
-  <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-python/main/assets/twitter.svg" />
+  <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/twitter.svg" />
 </a>
 <a href="https://github.com/wiseupdata/dockerhub-python">
-  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-python/455a58006b57efa411480238aa59fc3ebfb3ead6/assets/linkedin.svg" />
+  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.dockerhub-python&left_color=green&right_color=black)
