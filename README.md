@@ -12,7 +12,7 @@ Easy create a Docker image!
   <img align="left" alt="wise Up Data | Twitter" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/twitter.svg" />
 </a>
 <a href="https://github.com/wiseupdata/dockerhub-ubuntu-python">
-  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/6b3dc41c772ba34c80e0bcb7485044db43e5d2a2/assets/linkedin.svg" />
+  <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/455a58006b57efa411480238aa59fc3ebfb3ead6/assets/linkedin.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.dockerhub-ubuntu-python&left_color=green&right_color=black)
