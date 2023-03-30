@@ -40,7 +40,7 @@ docker run -it --rm python
 - python 3.9  `python`
 - python 3.11  `python3`
 - user `ubuntu` with sudo, no password
-- validated wit A.I.
+- validated wit A.I. 🦾
 
 # Create a tag and deploy to dockerhub
 
