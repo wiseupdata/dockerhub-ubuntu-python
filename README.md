@@ -74,8 +74,7 @@ docker push wiseupdata/python:3.9-ubuntu-23.04
 # Test the image 🎢
 
 ```
-docker run -it -u ubuntu wiseupdata/python:3.9-ubuntu-23.04 python_3_9
-
+docker run -it -u ubuntu wiseupdata/python:3.9-ubuntu-23.04
 ```
 
 # Utils 🎁
