@@ -94,3 +94,11 @@ delete one image
 ```
 docker image rm python -f
 ```
+
+--- 
+
+#### Maintainer 
+Sivio Liborio | `silllvio`
+
+- silvio.liborio@wiseupdata.com
+- silllvio@hotmail.com
