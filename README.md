@@ -97,8 +97,8 @@ docker image rm python -f
 
 --- 
 
-#### Maintainer 
+#### Maintainer 👨‍💻 🤗
 Sivio Liborio | `silllvio`
 
-- silvio.liborio@wiseupdata.com
-- silllvio@hotmail.com
+- silvio.liborio@wiseupdata.com 📧
+- silllvio@hotmail.com 📫
