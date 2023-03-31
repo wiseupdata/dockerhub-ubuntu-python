@@ -113,7 +113,7 @@ docker image rm python -f
 
 Sivio Liborio
 
-📧 silvio.liborio@wiseupdata.com 
+📧 silllvio@hotmail.com 
 
 <a href="https://www.linkedin.com/in/silvio-de-melo-liborio">silvio-de-melo-liborio<img align="left" alt="LinkedIN" width="18px" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/4ca2277f5a01686291016a67d656688c7c1fbbda/assets/linkedin.svg" />
 </a>
