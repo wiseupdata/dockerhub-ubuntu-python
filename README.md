@@ -80,27 +80,28 @@ docker run -it -u ubuntu wiseupdata/python:3.9-ubuntu-23.04
 # Utils 🎁
 
 list all container
-
 ```
 docker ps -a
 ```
 
 kill all containers ☠️
-
 ```
 docker rm $(docker ps -a -q) -f
 ```
 
 list the images
-
 ```
-docker image ls
+docker image ls -a
 ```
 
 delete one image
-
 ```
 docker image rm python -f
+```
+
+Delete all images ☠️
+```
+docker image rm  $(docker image ls -a ) -f
 ```
 
 <br>
