@@ -15,13 +15,13 @@ Easy Use and customize the Docker image!
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/linkedin.png" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.python&left_color=green&right_color=black)
-![license](https://img.shields.io/github/license/wiseupdata/python)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wiseupdata.dockerhub-ubuntu-python&left_color=green&right_color=black)
+![license](https://img.shields.io/github/license/wiseupdata/dockerhub-ubuntu-python)
 
 ---
 
 <h1>
-<img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/python/main/assets/imgs/docker.png" width="100" />
+<img align="left" alt="Docker image" src="https://raw.githubusercontent.com/wiseupdata/dockerhub-ubuntu-python/main/assets/imgs/docker.png" width="100" />
 
 Python docker images! 🚀️
 
